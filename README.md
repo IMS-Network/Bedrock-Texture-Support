@@ -130,7 +130,7 @@ After the conversion is complete, the GitHub Actions bot will reply to your issu
 Included in the bundle is a behavior pack and addon to view the models in single-player mode, as well as a configuration file containing the paths to the models converted from the Java resource pack and their corresponding identifiers in the Bedrock resource pack.
 
 ## About
-[How The Script Works]() | [Improvement Suggestions]()
+[How The Script Works](https://github.com/IMS-Network/Bedrock-Texture-Support/wiki/How-The-Script-Works) | [Improvement Suggestions](https://github.com/IMS-Network/Bedrock-Texture-Support/wiki/Improvement-Ideas)
 > **Note**
 > Due to [MCPE-152191](https://bugs.mojang.com/browse/MCPE-152191), a [resource [pack](https://bugs.mojang.com/secure/attachment/473588/473588_BlockGeoFi.mcpack) with a marketplace UUID that has been whitelisted to use the old block rendering engine must be applied above the resource pack containing the block models for them to render properly. This is only required to preview the models in-game with an inventory icon.\
 Geyser does not currently support the use of block models, so this script will simply use the icon of the vanilla item.\
